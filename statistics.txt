@@ -1,0 +1,10 @@
+Total number of training data entries:300
+Total number of Data entries:917
+Total number of values12838
+Total number of missing values:1784
+Number of fuzzy missing values:897
+Number of fixed missing values:887
+Fuzzy value Error:22.4235402147%
+Fixed value Error:125.140924464%
+Accuracy after Cleaning: 26.2177676604%
+Overall Data Accuracy: 17.08210001557875%
